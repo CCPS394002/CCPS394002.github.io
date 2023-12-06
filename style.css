@@ -12,23 +12,26 @@ body {
 
 
 p {
-  color: auqa:
+  color: auqa;
+  text-align: center;
   }
 
 
 ol {
   height: 100;
+  color: blue;
 }
   
 
 ul {
   width: 95;
-
+  front-size:12px
+}
 
 h1,
 .items {
   list-style: square;
-}
+  }
   
 
   <footer>
